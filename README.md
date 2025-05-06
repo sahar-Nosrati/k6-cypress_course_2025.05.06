@@ -1,1 +1,2 @@
-# k6-cypress_course_2025.05.06
+# k6-cypress_course
+  - Study cypress documentation
